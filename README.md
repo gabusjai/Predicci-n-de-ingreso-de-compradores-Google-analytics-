@@ -1,7 +1,7 @@
-# Predicci-n-de-ingreso-de-compradores-Google-analytics-
+# Prediccion de ingreso de compradores Google analytics
  Especialización en analítica y ciencia de datos
  
- Marco experimental
+ # Marco experimental
 
 Para lograr los objetivos propuestos se analiza un conjunto de datos otorgado por Kaggle en un periodo de tiempo del 01 de
 agosto de 2016 al 15 de octubre de 2018 y se busca predecir los ingresos
